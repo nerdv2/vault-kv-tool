@@ -1,4 +1,9 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
+
+# vault-kv-tool
+# A simple python script to convert kv value from Vault to static file.
+# __author__ = "Gema Aji Wardian"
+
 import argparse
 import requests
 import json
